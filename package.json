@@ -1,0 +1,14 @@
+{
+  "name": "travsim",
+  "version": "1.0.0",
+  "description": "Basic RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Wilfred Ratala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,26 @@
+{	
+	"1":{
+		"id": 1,
+		"price" : 15,
+		"name": "sim card for South Africa",
+		"category": "data simcard",
+		"description": "global data simcard"
+	},
+
+	"2":{
+		"id": 2,
+		"price" : 25,
+		"name": "world sim",
+		"category": "international simcard",
+		"description": "global call simcard"
+},
+
+	"3":{
+		"id": 3,
+		"price" : 10,
+		"name": "world sim",
+		"category": "international simcard",
+		"description": "global call simcard"
+	}
+
+}
